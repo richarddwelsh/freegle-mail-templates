@@ -30,7 +30,7 @@
             <mj-text color="#1D6607" font-size="18pt" line-height="1.25em">Thanks for joining Freegle</mj-text>
           </mj-column>
           <mj-column vertical-align="middle" width="35%">
-            <mj-image css-class="logo" src="https://www.ilovefreegle.org/images/user_logo.png" width="80px" align="right" border-radius="5px" padding="20px"/>
+            <mj-image css-class="logo" src="http://www.welshdesign.co.uk/Freegle/user_logo_80.jpg" width="80px" align="right" border-radius="5px" padding="20px"/>
           </mj-column>
           </mj-group>
         </mj-section>
@@ -61,7 +61,7 @@
             </mj-text>
           </mj-column>
         </mj-section>
-        <mj-section background-color="#e6f3e1" padding-top="10px" padding-bottom="10px">
+        <mj-section background-color="#e6f3e1" padding-top="10px" padding-bottom="10px" border-top="3px solid #4f7a3f">
           <mj-column>
             <mj-text>
               <span style="font-size: 14pt; color: #4f7a3f">How to post an OFFER</span>
@@ -79,7 +79,7 @@
            </mj-text>
           </mj-column>
         </mj-section>
-        <mj-section background-color="#e1f3f2" padding-top="10px" padding-bottom="10px">
+        <mj-section background-color="#e1f3f2" padding-top="10px" padding-bottom="10px" border-top="3px solid #346d6a">
           <mj-column>
             <mj-text>
               <span style="font-size: 14pt; color: #346d6a">How to post a WANTED</span>
