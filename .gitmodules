@@ -1,3 +1,3 @@
 [submodule "mini-web-server"]
 	path = mini-web-server
-	url = git@github.com:richarddwelsh/mini-web-server.git
+	url = https://github.com/richarddwelsh/mini-web-server.git
