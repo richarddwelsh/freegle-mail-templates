@@ -5,3 +5,9 @@
 ```
 php ExtractOriginalHtml.php
 ```
+
+---
+
+* [Welcome with password](welcome_withpassword.html)
+* [Forgot password](welcome_forgotpassword.html)
+* [Welcome Group](welcome_group.html)
