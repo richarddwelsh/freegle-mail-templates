@@ -1,6 +1,6 @@
 [submodule "mini-web-server"]
 	path = mini-web-server
 	url = https://github.com/richarddwelsh/mini-web-server.git
-[submodule "iznik-server"]
-	path = iznik-server
-	url = https://github.com/Freegle/iznik-server.git
+#[submodule "iznik-server"]
+#	path = iznik-server
+#	url = https://github.com/Freegle/iznik-server.git
