@@ -1,0 +1,11 @@
+        <mj-section background-url="$siteurl/4cfee57b0a29f35fcf37090ca395f063.png" background-color="#e5e4db" border-top="5px solid #61AE24" padding="0">
+          <mj-group>
+          <mj-column vertical-align="middle" width="78%">
+            <mj-text color="#1D6607" font-size="18pt" line-height="2em">Thanks for joining Freegle</mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle" width="22%">
+            <mj-image css-class="logo" src="$logo" width="80px" align="right" border-radius="5px" padding="20px"/>
+          </mj-column>
+          </mj-group>
+        </mj-section>
+

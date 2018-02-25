@@ -1,0 +1,11 @@
+{
+    "php_vars": {
+        "$email": "rdwelsh@gmail.com",
+        "$logo": "https://www.ilovefreegle.org/images/user_logo.png",
+        "$domain": "www.ilovefreegle.org",
+        "$siteurl": "https://www.ilovefreegle.org"
+    },
+    "twig_vars": {
+        "{{post}}": "http://ilovefreegle.org"
+    }
+}
