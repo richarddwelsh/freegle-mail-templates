@@ -3,9 +3,15 @@
         "$email": "rdwelsh@gmail.com",
         "$logo": "https://www.ilovefreegle.org/images/user_logo.png",
         "$domain": "www.ilovefreegle.org",
-        "$siteurl": "https://www.ilovefreegle.org"
+        "$siteurl": "https://www.ilovefreegle.org",
+        "$groupname": "Oxford Freegle"
     },
     "twig_vars": {
-        "{{post}}": "http://ilovefreegle.org"
+        "{{post}}": "http://ilovefreegle.org",
+        "{{email}}": "rdwelsh@gmail.com",
+        "{{frequency}}": "daily",
+        "{{noemail}}": "digestoff-35156088-21555@users.ilovefreegle.org",
+        "{{visit}}": "https://www.ilovefreegle.org/mygroups?u=35156088&src=digest",
+        "{{unsubscribe}}": "https://www.ilovefreegle.org/unsubscribe?u=35156088&src=digest"
     }
 }
